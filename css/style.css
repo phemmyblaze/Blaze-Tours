@@ -138,4 +138,36 @@ h4 {
   }
 
 
+@media (min-width: 320px) {
+    .travels {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .testimony {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .tour {
+        display: block;
+        margin-top: 0;
+    }
+
+    .tour-text  {
+        width: 100%;
+    }
+
+    .tour-img {
+        display: none;
+    }
+
+    .world {
+        display: block;
+        flex-direction: column;
+        padding-top: 50px;
+    }
+}
+
+
 

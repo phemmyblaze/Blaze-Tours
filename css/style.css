@@ -47,8 +47,7 @@ h4 {
 
  .services .icon-box {
     text-align: center;
-    padding: 70px 20px 80px 20px;
-    transition: all ease-in-out 0.3s;
+    padding: 40px 10px 50px 10px;
     background: #fff;
   }
   .services .icon-box .icon {
@@ -58,7 +57,6 @@ h4 {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: ease-in-out 0.3s;
     position: relative;
   }
   .services .icon-box .icon i {
@@ -66,12 +64,6 @@ h4 {
     transition: 0.5s;
     position: relative;
   }
-  .services .icon-box .icon svg {
-    position: absolute;
-    top: 0;
-    left: 0;
-  } 
- 
 
 
   @media (max-width: 767px) {

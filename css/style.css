@@ -242,14 +242,14 @@ h4 {
     }
   
     .testimony-section {
-      flex-direction: column;
-      padding-bottom: 15px;
+      /* flex-direction: column; */
+      padding: 0 30px 10px 30px;
     }
   
     .card-1 {
       padding: 20px;
     }
-  
+    
   
   }
 

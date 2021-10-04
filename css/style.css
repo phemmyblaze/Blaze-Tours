@@ -61,11 +61,6 @@ h4 {
 
 
 @media (max-width: 767px) {
-  .navi {
-    display: flex;
-    flex-direction: column;
-  }
-  
   .tour-per {
       padding: 20px;
     }
@@ -115,11 +110,6 @@ h4 {
 
 
   @media (max-width: 575px) {
-    .navi {
-      display: flex;
-      flex-direction: column;
-    }
-  
     .tour-per {
       padding: 20px;
     }
@@ -168,11 +158,6 @@ h4 {
   }
 
   @media (max-width: 425px) {
-    .navi {
-      display: flex;
-      flex-direction: column;
-    }
-  
     .tour-per {
       padding: 20px;
     }
@@ -221,11 +206,6 @@ h4 {
   }
 
   @media (max-width: 375px) {
-    .navi {
-      display: flex;
-      flex-direction: column;
-    }
-  
     .tour-per {
       padding: 20px;
     }
@@ -278,10 +258,7 @@ h4 {
   h2 {
     letter-spacing: 1rem;
   }
-  .navi {
-    display: flex;
-    flex-direction: column;
-  }
+
 
   .tour-per {
     padding: 20px;

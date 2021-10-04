@@ -103,30 +103,30 @@ h4 {
   }
 
 
-  @media (max-width: 575px) {
-    .tour-per {
-      padding: 20px;
-    }
+@media (max-width: 575px) {
+  .tour-per {
+    padding: 20px;
+  }
   
-    .tour {
-      flex-direction: column;
-    }
+  .tour {
+     flex-direction: column;
+  }
   
-    .tour-text {
-      width: 100%;
-      margin-top: 0.7rem;
-    }
+  .tour-text {
+    width: 100%;
+    margin-top: 0.7rem;
+  }
   
-    .tour-img {
-      display: none;
-    }
+  .tour-img {
+    display: none;
+  }
   
-    .tour-text-1 {
-      padding-bottom: 0;
-      margin-bottom: 0.2rem;
-    }
+  .tour-text-1 {
+     padding-bottom: 0;
+     margin-bottom: 0.2rem;
+  }
   
-    .tour-text-heading {
+  .tour-text-heading {
         text-align: center;
     }
   

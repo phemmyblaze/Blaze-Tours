@@ -97,7 +97,6 @@ h4 {
     }
   
     .testimony-section {
-      flex-direction: column;
       padding-left: 150px;
     }
   
@@ -146,7 +145,6 @@ h4 {
     }
   
     .testimony-section {
-      flex-direction: column;
       padding-left: 150px;
     }
   
@@ -242,7 +240,6 @@ h4 {
     }
   
     .testimony-section {
-      /* flex-direction: column; */
       padding: 0 30px 10px 30px;
     }
   

@@ -45,12 +45,8 @@ h4 {
       padding-bottom: 0;
       margin-bottom: 0.2rem;
     }
-  
-    .tour-text-heading {
-        text-align: center;
-    }
-  
-    .world {
+
+  .world {
       flex-direction: column;
       padding: 20px;
     }
@@ -66,7 +62,7 @@ h4 {
     .card-1 {
       padding: 20px;
     }
-    
+
   }
 
 
@@ -84,12 +80,9 @@ h4 {
      padding-bottom: 0;
      margin-bottom: 0.2rem;
   }
+
   
-  .tour-text-heading {
-        text-align: center;
-    }
-  
-    .world {
+  .world {
       flex-direction: column;
       padding: 20px;
     }
@@ -124,11 +117,7 @@ h4 {
       margin-bottom: 0.2rem;
     }
   
-    .tour-text-heading {
-        text-align: center;
-    }
-  
-    .world {
+  .world {
       flex-direction: column;
       padding: 20px;
     }
@@ -164,11 +153,7 @@ h4 {
       margin-bottom: 0.2rem;
     }
   
-    .tour-text-heading {
-        text-align: center;
-    }
-  
-    .world {
+   .world {
       flex-direction: column;
       padding: 20px;
     }
@@ -208,11 +193,7 @@ h4 {
     margin-bottom: 0.2rem;
   }
 
-  .tour-text-heading {
-      text-align: center;
-  }
-
-  .world {
+ .world {
     flex-direction: column;
     padding: 20px;
   }

@@ -4,13 +4,7 @@
     box-sizing: border-box;
 }
 
-.hero {
-    background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8),
-     rgba(40, 180, 133, 0.8)), url(../img/hero-small.jpg);
-     background-repeat: no-repeat;
-     background-position: center;
-     background-size: cover;
-}
+
 
 h2 {
     letter-spacing: 1.4rem;
@@ -21,29 +15,11 @@ h4 {
     letter-spacing: 1.5rem;
 }
 
-.tour-text {
-  width: 60%;
-}
-
-.tour-img {
-  width: 40%;
-}
-.sec {
-    background-image: linear-gradient(to right, #7ed56f, #28b485);
-}
-
-.cool {
-  width: 18rem;
-}
 
 .pt {
     padding-top: 150px;
 }
 
-.services .icon-box {
-  text-align: center;
-  background: #fff;
-}
 
 .services .icon-box .icon {
   margin: 0 auto;
@@ -90,8 +66,7 @@ h4 {
     .card-1 {
       padding: 20px;
     }
-  
-  
+    
   }
 
 
@@ -254,10 +229,7 @@ h4 {
   .card-1 {
     padding: 20px;
   }
-
-  .cool {
-    width: 13rem;
-  }
+ 
 }
 
 
